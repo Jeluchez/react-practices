@@ -1,8 +1,6 @@
 {
   "name": "react-component-library",
   "version": "0.0.0",
-  "module": "./dist/react-component-library.cjs",
-  "main": "./dist/react-component-library.es.js",
   "type": "module",
   "types": "./dist/index.d.ts",
   "exports": {
